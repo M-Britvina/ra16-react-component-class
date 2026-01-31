@@ -1,5 +1,5 @@
 import './App.css';
-import { ShopItemClass } from './components/ShopItemClass';
+import { ShopItemClass } from './components/ShopItemClass/ShopItemClass';
 
 const item = {
   brand: 'Tiger of Sweden',
